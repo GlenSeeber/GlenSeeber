@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlenSeeber
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Cybersecurity and Servers in Python
 - 💞️ I’m looking to collaborate on anything worth my time
 - 📫 Reach me at my email! gseeber5@gmail.com
 
