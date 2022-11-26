@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlenSeeber
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Cybersecurity and Servers in Python
+- 👀 I’m interested in C, Networking, Backend, Security, and Python
+- 🌱 I’m currently learning Bare Metal Programming with Arduinos (C++)
 - 💞️ I’m looking to collaborate on anything worth my time
 - 📫 Reach me at my email! gseeber5@gmail.com
 
